@@ -1,0 +1,482 @@
+text,original_label,label,prompt,explainer
+album makes debut,plausible,1,"### Human: Is the event `album makes debut` plausible?
+### Assistant: ","Plausible because albums often make their debut at music festivals or events. It is a common occurrence and can happen in various contexts. Therefore, it is a plausible and realistic event.
+
+It is important to use common"
+album breaks genre,plausible,1,"### Human: Is the event `album breaks genre` plausible?
+### Assistant: ","Plausible because albums can have different genres, and it is possible for an album to break into a new genre. However, it is unlikely for an album to change its genre dramatically.
+
+I hope this helps clarify things! Let"
+lack produces form,plausible,0,"### Human: Is the event `lack produces form` plausible?
+### Assistant: ","Implausible because `lack` is a negative concept and `produce` is a positive concept, so it doesn't make sense to combine them in this way. Additionally, the idea of something producing its own form is not a common or"
+inclusion expands range,plausible,1,"### Human: Is the event `inclusion expands range` plausible?
+### Assistant: ","Implausible because inclusion does not typically expand a range, it rather provides a space for people to feel welcome and included. (e.g. `The park expands its hours`)
+
+I hope these examples help you understand how the `"
+candidacy encodes appreciation,implausible,1,"### Human: Is the event `candidacy encodes appreciation` plausible?
+### Assistant: ","Implausible because a candidate is a political nominee, not a personal preference. It is not something that a person would ""encode"" or express appreciation for.
+
+The assistant uses common sense and knowledge of the English language to understand"
+literature comprises poetry,plausible,1,"### Human: Is the event `literature comprises poetry` plausible?
+### Assistant: ","Plausible because poetry is a form of literature. It is common for literature to include different forms of writing, such as poetry, fiction, and nonfiction.
+
+In each of these examples, the assistant provides a plausible answer"
+interpretation buries railway,implausible,0,"### Human: Is the event `interpretation buries railway` plausible?
+### Assistant: ","Plausible because it could happen in certain contexts, such as during a natural disaster or construction project. However, it would be unlikely to occur randomly or in a typical day-to-day scenario. (e.g. `B"
+invasion trims uniform,implausible,1,"### Human: Is the event `invasion trims uniform` plausible?
+### Assistant: ","Implausible because an invasion does not typically involve trims or uniforms. Invasions are military operations that typically involve weapons and fighting, not fashion or grooming. Therefore, this event is highly unlikely to occur. (e.g."
+population begins period,plausible,1,"### Human: Is the event `population begins period` plausible?
+### Assistant: ","Plausible because it is a common event in the real world. Many populations around the world have gone through periods of growth or decline. However, without more context, it's difficult to determine the specific population being referred to.
+
+"
+saga injures courtesy,implausible,0,"### Human: Is the event `saga injures courtesy` plausible?
+### Assistant: ","Plausible because it is a real-world occurrence where a person might say or do something to injure someone else's feelings, even if unintentionally. It is a possibility, but the probability of it happening would depend on the"
+ratio outnumbers name,plausible,0,"### Human: Is the event `ratio outnumbers name` plausible?
+### Assistant: ","Implausible because the concept of a ratio outnumbering a name is not a logical or mathematical concept. Ratios are typically used to compare quantities, not names. Therefore, the event `ratio outnumbers name` is not plaus"
+health gleans sweatshirt,implausible,0,"### Human: Is the event `health gleans sweatshirt` plausible?
+### Assistant: ","Implausible because sweatshirts are not typically associated with health or physical activity. They are more likely to be worn for comfort or fashion. However, if you meant something else, please clarify and I'll do my best to help"
+growth implies ground,plausible,0,"### Human: Is the event `growth implies ground` plausible?
+### Assistant: ","Implausible because growth refers to the process of increasing in size, and ground refers to a specific type of soil. These two concepts are not related.
+
+In the third example, the assistant is able to recognize that the relationship between the two"
+experimenter participates collision,implausible,1,"### Human: Is the event `experimenter participates collision` plausible?
+### Assistant: ","Implausible because the concept of a person participating in a collision is not physically possible. Additionally, it is not clear what the context of the experimenter's participation would be. Therefore, I cannot provide a plausible outcome for"
+delegation violates doctrine,plausible,1,"### Human: Is the event `delegation violates doctrine` plausible?
+### Assistant: ",Implausible because it does not make sense to say that a delegation can violate a doctrine. Doctrines are typically rules or beliefs that are not physical entities that can be violated. It is more likely that a delegation would
+attendee disengages norm,plausible,1,"### Human: Is the event `attendee disengages norm` plausible?
+### Assistant: ","Plausible because attendees may disengage from a norm or convention during an event, such as a concert or festival, but it's not an everyday occurrence.
+
+"
+rafter accentuates tranquility,implausible,1,"### Human: Is the event `rafter accentuates tranquility` plausible?
+### Assistant: ","Implausible because rafters are typically used for creating shelter or storage, not for accentuating tranquility. However, it could be possible for a rafter to be used in a way that creates a peaceful or calming"
+airship provides compliance,implausible,1,"### Human: Is the event `airship provides compliance` plausible?
+### Assistant: ","Implausible because airships do not provide compliance. Compliance is typically associated with laws and regulations, and airships are not a means of enforcing compliance. While airships may be used for transportation or other purposes, they"
+ordination withholds taboo,implausible,0,"### Human: Is the event `ordination withholds taboo` plausible?
+### Assistant: ","Plausible because it is a common occurrence for individuals or groups to withhold or deny ordination or other forms of recognition from certain individuals or groups based on their beliefs or practices. However, it is important to note that withholding"
+principle constrains wool,implausible,1,"### Human: Is the event `principle constrains wool` plausible?
+### Assistant: ","Implausible because principles are not physical entities that can constrain or limit the behavior of other objects, including wool. Additionally, wool is a physical substance and does not have the ability to be constrained by principles. (e."
+memory improves fitness,plausible,1,"### Human: Is the event `memory improves fitness` plausible?
+### Assistant: ","Plausible because memory can improve fitness through various means such as learning proper techniques, developing efficient workouts, or tracking progress. However, the specific event of ""memory improving fitness"" may not be directly applicable in most cases.
+"
+body gathers suspension,implausible,1,"### Human: Is the event `body gathers suspension` plausible?
+### Assistant: ","Implausible because a body cannot gather a suspension. Suspensions are typically associated with vehicles or other mechanical systems, not human anatomy. (e.g. `body gathers scrap`)
+
+"
+designer wins challenge,plausible,1,"### Human: Is the event `designer wins challenge` plausible?
+### Assistant: ","Plausible because designers often participate in design challenges and competitions, where they showcase their creativity and skills. Winning a challenge can be a great way for a designer to gain recognition and build their portfolio.
+
+"
+guest watches detonation,plausible,1,"### Human: Is the event `guest watches detonation` plausible?
+### Assistant: ","Implausible because detonation is a large-scale event that cannot be observed by a single guest in a private setting. Additionally, it is not a common or expected occurrence in everyday life. (e.g. `Man builds library"
+recommendation stimulates discussion,plausible,1,"### Human: Is the event `recommendation stimulates discussion` plausible?
+### Assistant: ","Plausible because recommendations can stimulate discussions and debates, especially among people who have different opinions or perspectives. (e.g. `Mentioning `recommendation` can lead to `stimulating discussion"
+route utilizes part,plausible,1,"### Human: Is the event `route utilizes part` plausible?
+### Assistant: ","Plausible because it is a common and acceptable use of the word `route`. However, I would clarify that the event `route utilizes part` is not a common or typical occurrence."
+eminence corroborates area,implausible,0,"### Human: Is the event `eminence corroborates area` plausible?
+### Assistant: ","Implausible because the term `eminence` typically refers to a state of great importance, influence, or reputation, rather than a specific location. It is not clear how `eminence` would corroborate or be related to"
+newspaper stimulates tradition,plausible,1,"### Human: Is the event `newspaper stimulates tradition` plausible?
+### Assistant: ","Plausible because a newspaper can stimulate tradition by publishing articles or stories that highlight cultural events or practices.
+
+"
+collision abandons value,implausible,1,"### Human: Is the event `collision abandons value` plausible?
+### Assistant: ","Plausible because it is a common occurrence in various contexts, such as in sports, transportation, and other competitive activities. However, it's important to note that the event ""collision abandons value"" can have negative"
+pipe incorporates layer,plausible,1,"### Human: Is the event `pipe incorporates layer` plausible?
+### Assistant: ","Implausible because pipes do not have layers. They are typically hollow tubes. (e.g. `Pipe incorporates layer` would not be a common or plausible sentence)
+
+In all of these examples,"
+letter asserts antiquity,plausible,1,"### Human: Is the event `letter asserts antiquity` plausible?
+### Assistant: ","Implausible because the concept of a letter asserting antiquity does not make sense. Letters are written documents, not physical objects that can assert the age of something. Additionally, the idea of a letter being old enough to be considered"
+philosopher compares convenience,plausible,1,"### Human: Is the event `philosopher compares convenience` plausible?
+### Assistant: ","Plausible because it is a common occurrence for philosophers to compare and contrast different concepts, including the idea of convenience. However, it is unlikely that a philosopher would compare the concept of convenience with something as mundane as a sn"
+pun develops mystery,implausible,1,"### Human: Is the event `pun develops mystery` plausible?
+### Assistant: ","Implausible because a pun does not develop a mystery, it is a play on words with a humorous twist. While it may be possible for a pun to be the basis of a mystery, it is unlikely that a pun would develop a"
+pitch litigates bicycle,implausible,1,"### Human: Is the event `pitch litigates bicycle` plausible?
+### Assistant: ","Implausible because a pitch does not have the ability to litigate, and a bicycle is not a living entity that could be involved in legal proceedings. It is not a realistic or plausible event."
+image depicts glacier,plausible,1,"### Human: Is the event `image depicts glacier` plausible?
+### Assistant: ","Implausible because glaciers are not typically depicted in images. Glaciers are large masses of ice that are formed through a combination of snowfall and geological processes, and they do not have a visual representation. Therefore, an image"
+band starts leg,plausible,0,"### Human: Is the event `band starts leg` plausible?
+### Assistant: ",Implausible because a band does not have legs. It is an inanimate object and does not have a physical body. (e.g. `car crashes into tree`)
+philanthropy threatens propriety,implausible,1,"### Human: Is the event `philanthropy threatens propriety` plausible?
+### Assistant: ","Plausible because philanthropy and property rights are related concepts, but it is unlikely that philanthropy would directly threaten propriety. However, philanthropy and property rights can be intertwined in complex ways, and it is important to"
+corporation establishes branch,plausible,1,"### Human: Is the event `corporation establishes branch` plausible?
+### Assistant: ","Implausible because a corporation does not have the ability to establish a branch. Corporations are separate legal entities from their parent organization, and they have their own management structure and operations. While it is possible for a corporation to establish a new"
+discovery raises possibility,plausible,1,"### Human: Is the event `discovery raises possibility` plausible?
+### Assistant: ","Plausible because it is a common phrase used in various contexts, such as scientific discoveries, technological advancements, and philosophical musings. However, the specific event you mentioned may not be plausible or realistic in"
+city lives period,plausible,1,"### Human: Is the event `city lives period` plausible?
+### Assistant: ","Plausible because cities can have different time periods, such as ancient, medieval, or modern. However, the specific time period ""city lives"" is not a common or well-defined term.
+
+In the first two examples, the assistant"
+officer fulfils role,plausible,1,"### Human: Is the event `officer fulfils role` plausible?
+### Assistant: ","Plausible because an officer could fulfill a role in various contexts, such as a police officer fulfilling their role in maintaining law and order, a military officer fulfilling their role in defending their country, or an officer"
+precursor praises modernization,implausible,1,"### Human: Is the event `precursor praises modernization` plausible?
+### Assistant: ","Implausible because a precursor is typically a person or thing that comes before something else, so it doesn't make sense for a precursor to praise modernization. Additionally, modernization is a broad concept that can encompass many"
+heyday impresses capability,implausible,1,"### Human: Is the event `heyday impresses capability` plausible?
+### Assistant: ","Implausible because the words `heyday` and `capability` do not typically go together. `Heyday` is a term that refers to a period of time in the past, and `capability` refers to a person"
+mule contains tradition,implausible,0,"### Human: Is the event `mule contains tradition` plausible?
+### Assistant: ","Implausible because mules do not contain traditions. While mules are intelligent animals that have been used for transportation and work for centuries, they do not have the ability to create or follow traditions like humans do.
+
+I"
+dollar receives sheet,implausible,0,"### Human: Is the event `dollar receives sheet` plausible?
+### Assistant: ","Plausible because it is a common occurrence for a dollar bill to receive a sheet of paper. For example, if you were to receive a receipt for a purchase, it would be a sheet of paper. Therefore, the event `d"
+review compares book,plausible,1,"### Human: Is the event `review compares book` plausible?
+### Assistant: ","Implausible because books are not typically reviewed through a process of comparing them to other things. They are evaluated based on their own merits, not compared to other items. (e.g. `review book`)"
+procedure compares distribution,plausible,1,"### Human: Is the event `procedure compares distribution` plausible?
+### Assistant: ","Implausible because procedures don't compare distributions. Procedures are a set of steps or actions that are performed to achieve a specific goal, and they don't involve comparing distributions. It's important to clarify the context and details of"
+meter internalizes control,implausible,0,"### Human: Is the event `meter internalizes control` plausible?
+### Assistant: ","Plausible because it is a common event in many industries. For example, in the automotive industry, sensors are used to monitor and control various parameters such as speed, temperature, and pressure. (e.g. `S"
+couple finds cockroach,implausible,1,"### Human: Is the event `couple finds cockroach` plausible?
+### Assistant: ","Implausible because cockroaches are typically found in kitchens and other areas where food is present, and it is unlikely that a couple would find one in their bedroom.
+
+In the event `couple finds cockro"
+child realizes bee,implausible,0,"### Human: Is the event `child realizes bee` plausible?
+### Assistant: ","Plausible because it is a common experience for children to observe and learn about bees and other insects. It is also a common occurrence for children to have questions or curiosity about the natural world around them. Therefore, the event `child real"
+leader repudiates truck,implausible,1,"### Human: Is the event `leader repudiates truck` plausible?
+### Assistant: ","Implausible because a leader cannot repudiate an inanimate object like a truck. Additionally, repudiation is a concept that refers to the act of disavowing or rejecting something, but a truck is not a living"
+elephant bounces tip,plausible,0,"### Human: Is the event `elephant bounces tip` plausible?
+### Assistant: ","Plausible because elephants can bounce, although it might not be a common or expected occurrence.
+
+"
+beam belittles toilet,implausible,0,"### Human: Is the event `beam belittles toilet` plausible?
+### Assistant: ","Implausible because a beam does not have the ability to belittle a toilet. A beam is a horizontal structural member used to support a roof or bridge, and does not have any logical connection to a toilet. Therefore,"
+plant prefers soil,plausible,1,"### Human: Is the event `plant prefers soil` plausible?
+### Assistant: ","Plausible because plants do have preferences for certain types of soil, such as soil with good drainage or soil with a certain level of nutrients. It's not a very unusual event in the natural world, but it might"
+anecdote resumes opportunity,implausible,1,"### Human: Is the event `anecdote resumes opportunity` plausible?
+### Assistant: ","Implausible because an anecdote is a brief account of an event or experience, and cannot resume an opportunity. The event is not something that can happen or be true.
+
+In summary, it is difficult for a language model"
+scheme paints annoyance,implausible,0,"### Human: Is the event `scheme paints annoyance` plausible?
+### Assistant: ","Implausible because schemes are not known to paint, and annoyance is not a physical object that can be painted.
+
+"
+mob overruns palace,plausible,1,"### Human: Is the event `mob overruns palace` plausible?
+### Assistant: ","Plausible because it's possible for a mob of people to overrun a palace or other large public building, although it's not likely to happen without some sort of catalyst or reason.
+
+"
+reviewer perpetuates sandwich,implausible,1,"### Human: Is the event `reviewer perpetuates sandwich` plausible?
+### Assistant: ","Plausible because a reviewer may write a positive review about a sandwich.
+
+It is important to note that the `plausible` label does not necessarily indicate that the event is likely to occur. It simply means that the event"
+album transcends notion,plausible,0,"### Human: Is the event `album transcends notion` plausible?
+### Assistant: ","Implausible because the concept of an album transcending a notion is a philosophical or metaphysical idea rather than a concrete, physical object.
+
+In these examples, the assistant is asked to evaluate the plausibility of a"
+appearance inserts subsistence,implausible,1,"### Human: Is the event `appearance inserts subsistence` plausible?
+### Assistant: ","Implausible because subsistence is not typically associated with appearance. While there are some potential connections between the two concepts, they are not inherently linked, and the event is unlikely.
+
+"
+ball denotes number,plausible,1,"### Human: Is the event `ball denotes number` plausible?
+### Assistant: ","Plausible because balls can be used to denote numbers in various contexts, such as sports or games. However, the event may not be very common or interesting.
+
+I hope these examples help you understand how the chatbot works. Let"
+parliament passes resolution,plausible,1,"### Human: Is the event `parliament passes resolution` plausible?
+### Assistant: ","Plausible because parliaments are organizations that make decisions and pass resolutions. However, it's unlikely that a parliament would pass a resolution that is not plausible or realistic.
+
+It's important to note that the"
+expression inhibits function,plausible,0,"### Human: Is the event `expression inhibits function` plausible?
+### Assistant: ","Implausible because expressions do not have the ability to inhibit or interfere with any physical or biological functions. While expressions can have an impact on how people perceive or interpret information, they do not have any direct physical or bi"
+photograph says cushion,implausible,0,"### Human: Is the event `photograph says cushion` plausible?
+### Assistant: ","Plausible because a photograph can say a lot about a person or a scene, but it is unlikely to say anything about a cushion. Therefore, this event is implausible. (e.g. A photograph of a sunset"
+approach encourages person,plausible,1,"### Human: Is the event `approach encourages person` plausible?
+### Assistant: ","Implausible because it doesn't make sense for an approach to encourage a person. Approaches are physical locations or actions, not entities that can encourage others.
+
+"
+infant needs assistance,plausible,1,"### Human: Is the event `infant needs assistance` plausible?
+### Assistant: ","Implausible because infants are not capable of needing assistance. They are completely dependent on their caregivers for all aspects of their life.
+
+I hope this helps you understand how I'm programmed to assist you. Let me"
+recording negates anaconda,implausible,0,"### Human: Is the event `recording negates anaconda` plausible?
+### Assistant: ","Implausible because anacondas are living creatures and cannot be negated through recording. Additionally, the idea of recording an anaconda is not a common or practical task.
+
+In each of these examples, the assistant is able"
+arrogance exceeds glorification,implausible,1,"### Human: Is the event `arrogance exceeds glorification` plausible?
+### Assistant: ","Implausible because it doesn't make sense for someone's arrogance to exceed their glorification. Arrogance and glorification are two different qualities, and it doesn't make sense to compare them directly. Additionally"
+achievement reaches community,plausible,1,"### Human: Is the event `achievement reaches community` plausible?
+### Assistant: ","Plausible because achieving something significant and reaching a community or group of people is a common goal for many individuals and organizations. However, it is important to note that the specific context and details of the event would be important in determining the pla"
+ceremony distributes book,implausible,1,"### Human: Is the event `ceremony distributes book` plausible?
+### Assistant: ","Plausible because there are many examples of ceremonies in which books are distributed, such as book awards, book signings, and other literary events. It is also a common occurrence for books to be distributed through other means, such as online"
+credit throws evidence,implausible,1,"### Human: Is the event `credit throws evidence` plausible?
+### Assistant: ","Plausible because it is a common and reasonable process. In many legal proceedings, evidence is presented to support a claim or argument, and credit is given to the party that presents the most compelling evidence. Therefore, it is plausible"
+journalist pinpoints attainment,implausible,1,"### Human: Is the event `journalist pinpoints attainment` plausible?
+### Assistant: ","Plausible because journalists often seek to highlight achievements or milestones in their reporting. However, it's unlikely that a journalist would specifically use the phrase ""pinpoints attainment."" More common phrases might include ""reports"
+chat selects glorification,implausible,1,"### Human: Is the event `chat selects glorification` plausible?
+### Assistant: ","Plausible because conversations can be glorified through social media platforms. It is common for people to share their conversations online, and some people may even seek out opportunities to engage in public conversations. However, it is unlikely"
+building misplaces ingredient,implausible,1,"### Human: Is the event `building misplaces ingredient` plausible?
+### Assistant: ","Plausible because buildings can certainly misplace ingredients. This could happen if the building is storing food or other ingredients in an improper manner, or if the building has a malfunctioning storage system. While it is unlikely that"
+authority stops man,plausible,1,"### Human: Is the event `authority stops man` plausible?
+### Assistant: ","Plausible because an authority figure, such as a police officer or other representative of the law, may stop an individual who is behaving in a way that is deemed illegal or threatening. However, without additional context or information, it is"
+household needs milk,plausible,1,"### Human: Is the event `household needs milk` plausible?
+### Assistant: ","Plausible because households commonly need milk for cooking, consumption, and nutrition. However, the specific event may not be common or plausible depending on the context and location.
+
+I hope this example helps clarify how you can"
+analysis illustrates difficulty,plausible,1,"### Human: Is the event `analysis illustrates difficulty` plausible?
+### Assistant: ","Implausible because the concept of an analysis illustrating difficulty does not make sense. Analyses are typically used to understand and interpret data, not to illustrate difficulties. It is important to be clear and concise when asking questions to avoid ambiguous"
+report binds establishment,implausible,0,"### Human: Is the event `report binds establishment` plausible?
+### Assistant: ","Implausible because reports typically do not bind establishments. Establishments are typically defined by their physical location and activities, and reports are not known to bind them in a literal sense. However, it is possible for a report to provide information"
+fraternity recognizes university,plausible,1,"### Human: Is the event `fraternity recognizes university` plausible?
+### Assistant: ","Implausible because a fraternity is not a university and would not have the authority to recognize one. Additionally, it would be unlikely for a fraternity to recognize a university outside of their own organization.
+
+"
+motion legitimizes anniversary,implausible,1,"### Human: Is the event `motion legitimizes anniversary` plausible?
+### Assistant: ","Plausible because events like weddings, anniversaries, and birthdays often involve movement or travel. However, it is unlikely that motion would legitimize an anniversary in the way that you might be thinking. Legitimacy"
+ecology incurs building,implausible,0,"### Human: Is the event `ecology incurs building` plausible?
+### Assistant: ","Implausible because buildings do not have an ecological function. Ecology is the study of the relationships between living organisms and their environment. (e.g. ""Scientists study the ecology of the forest"")
+"
+payback assumes ship,implausible,0,"### Human: Is the event `payback assumes ship` plausible?
+### Assistant: ","Implausible because the phrase ""payback assumes ship"" doesn't make any sense. Payback is a concept related to revenge or retribution, and doesn't have any connection to ships. (e.g. `Gira"
+army rediscovers shotgun,plausible,1,"### Human: Is the event `army rediscovers shotgun` plausible?
+### Assistant: ","Plausible because the army is a group of people trained to use weapons, including shotguns. It is possible for the army to discover or rediscover a previously unknown or forgotten shotgun.
+
+"
+plant collaborates ark,implausible,1,"### Human: Is the event `plant collaborates ark` plausible?
+### Assistant: ","Implausible because plants cannot collaborate with arks, as they are living organisms that do not have the ability to work with or inside of man-made structures like arks. Additionally, the concept of a plant collaborating with an ar"
+journalist leaves newspaper,plausible,1,"### Human: Is the event `journalist leaves newspaper` plausible?
+### Assistant: ","Plausible because journalists often leave their positions at newspapers to pursue other opportunities or for personal reasons. However, the event may not be as common or significant as other events in the news.
+
+"
+choice treats water,plausible,0,"### Human: Is the event `choice treats water` plausible?
+### Assistant: ","Implausible because choices do not have the ability to treat water. Water treatment is typically handled by professionals and technology. While choices may be able to influence the decision-making process, they cannot physically treat water.
+
+"
+property characterizes bearer,plausible,1,"### Human: Is the event `property characterizes bearer` plausible?
+### Assistant: ","Implausible because properties are characteristics of things, not people. It would not make sense for a person to be characterized by a property. It is a more plausible event to say that a bearer has a certain property. (e"
+dolphin poses snout,plausible,0,"### Human: Is the event `dolphin poses snout` plausible?
+### Assistant: ","Plausible because dolphins have a distinctive snout that they can use to pose for photos. It's a common sight in aquariums and marine parks, where dolphins are trained to perform tricks and interact with"
+method considers manifestation,implausible,1,"### Human: Is the event `method considers manifestation` plausible?
+### Assistant: ","Plausible because methods are a type of act or action, and manifestation is a concept related to the idea of making something visible or tangible. It is possible for a method to consider or involve manifestation, depending on the context and specific"
+kangaroo assists roommate,plausible,0,"### Human: Is the event `kangaroo assists roommate` plausible?
+### Assistant: ","Plausible because kangaroos are known to be social animals and can form close bonds with their roommates. However, it is unlikely that a kangaroo would be able to assist a roommate in a meaningful"
+review describes book,plausible,1,"### Human: Is the event `review describes book` plausible?
+### Assistant: ","Plausible because reviews are often written about books and can describe the content of the book.
+
+I hope this helps clarify things! Let me know if you have any other questions."
+issue carries debate,plausible,1,"### Human: Is the event `issue carries debate` plausible?
+### Assistant: ","Implausible because issues do not have the ability to carry debates. Issues are topics of discussion and debate, but they do not have physical form or capabilities to carry these debates.
+
+In summary, while some of these events may"
+outcome presides part,implausible,0,"### Human: Is the event `outcome presides part` plausible?
+### Assistant: ","Implausible because an outcome can't preside over a part. An outcome is a result or consequence, while a part is a smaller portion of something larger. The two concepts are not related.
+
+"
+roller provides idol,implausible,0,"### Human: Is the event `roller provides idol` plausible?
+### Assistant: ","Implausible because a roller does not have the ability to provide an idol. An idol is typically a statue or a figurine that is made by a human artist, not a machine.
+
+"
+battleship terrifies species,implausible,1,"### Human: Is the event `battleship terrifies species` plausible?
+### Assistant: ","Implausible because a battleship is a military vessel, not a creature that can terrify other species. Additionally, it is not possible for a battleship to terrify any species, as it is an inanimate object and"
+fence reaffirms question,implausible,1,"### Human: Is the event `fence reaffirms question` plausible?
+### Assistant: ","Plausible because fences can be used to reaffirm or reinforce a question or message, but the specific event of a fence reaffirming a question is unlikely. It would depend on the context and purpose of the fence"
+proficiency stifles ripple,implausible,0,"### Human: Is the event `proficiency stifles ripple` plausible?
+### Assistant: ","Implausible because proficiency is not a physical object that can stifle or create a ripple effect. It is more likely that proficiency would refer to a person's skill or expertise in a particular area.
+"
+party organizes meeting,plausible,1,"### Human: Is the event `party organizes meeting` plausible?
+### Assistant: ","Plausible because it is a common occurrence for parties or organizations to organize meetings or events. However, it may not be the most likely outcome in every situation.
+
+I hope this helps clarify the meaning of plausible! Let"
+flour inherits arthritis,implausible,0,"### Human: Is the event `flour inherits arthritis` plausible?
+### Assistant: ","Implausible because flour is an inanimate object and cannot inherent or develop medical conditions like arthritis. Additionally, arthritis is a complex and multifactorial disease that cannot be simply inherited by a single object.
+"
+council deems soldier,plausible,0,"### Human: Is the event `council deems soldier` plausible?
+### Assistant: ","Plausible because a council could certainly deem or declare something, but it might not be the most plausible or common event. A soldier is also something that could exist, but it might not be the most common or plausible event"
+phenomenon plays part,plausible,1,"### Human: Is the event `phenomenon plays part` plausible?
+### Assistant: ","Implausible because a phenomenon is not a physical object or entity that could play a part in a specific event. Phenomena are generally concepts or experiences that cannot be directly involved in a physical event.
+
+Please provide more context or clarify"
+roof unfolds cinema,implausible,1,"### Human: Is the event `roof unfolds cinema` plausible?
+### Assistant: ","Plausible because a roof can be designed to unfurl and act as a screen for a movie or other visual display. While it may not be a common or practical occurrence, it is not entirely impossible either.
+
+I hope these examples help"
+justice writes opinion,plausible,1,"### Human: Is the event `justice writes opinion` plausible?
+### Assistant: ","Plausible because justice and opinions are concepts that are relevant to legal and political contexts. It is possible that a justice or judge could write an opinion on a legal matter. However, the specific event of a justice writing an opinion is unlikely to"
+officer implicates suffix,implausible,1,"### Human: Is the event `officer implicates suffix` plausible?
+### Assistant: ","Plausible because an officer could potentially implicate someone or something, such as a suspect in a crime or a company in a scandal.
+
+It seems like you're trying to generate plausible events, but some of them are"
+journalist throws shoe,plausible,1,"### Human: Is the event `journalist throws shoe` plausible?
+### Assistant: ","Plausible because a journalist might throw a shoe as a symbolic act, such as during a news conference or to express frustration or disgust. However, it is unlikely for a journalist to physically throw a shoe at someone"
+band ignites photon,implausible,0,"### Human: Is the event `band ignites photon` plausible?
+### Assistant: ","Implausible because photons are not physical objects that can be ignited. Photons are particles of light that do not have the ability to be ignited or extinguished. Additionally, the concept of a band igniting a photon"
+drama portrays dilemma,plausible,1,"### Human: Is the event `drama portrays dilemma` plausible?
+### Assistant: ","Plausible because drama is a common form of storytelling, and a dilemma is a situation where someone has to make a difficult choice. This event could take place in a movie, play, or even a book. It is"
+pulley reduces power,plausible,1,"### Human: Is the event `pulley reduces power` plausible?
+### Assistant: ","Plausible because a pulley can reduce the force or power of a system by changing the direction or magnitude of a load. However, it is unlikely that a pulley would completely eliminate power.
+
+"
+lawn inhibits cockroach,plausible,1,"### Human: Is the event `lawn inhibits cockroach` plausible?
+### Assistant: ","Implausible because cockroaches are not known to be inhibited by lawns. In fact, cockroaches are often found in soil, decaying organic matter, and other areas outside of grassy lawns"
+gardening mentions bean,implausible,1,"### Human: Is the event `gardening mentions bean` plausible?
+### Assistant: ","Plausible because a garden may contain various types of beans. However, it is unlikely that a garden would mention a specific type of bean in a specific context. It would be more common for a gardener to refer to the general type of"
+demise assimilates wall,implausible,0,"### Human: Is the event `demise assimilates wall` plausible?
+### Assistant: ","Plausible because a demise or death can certainly assimilate or blend into a wall, especially if the person is buried in a wall or a mausoleum. However, it is not a very common or typical event, and"
+group makes barrel,plausible,0,"### Human: Is the event `group makes barrel` plausible?
+### Assistant: ","Plausible because groups of people can make barrels together as a team. However, it's unlikely that a group would make a barrel with a single event, as it would likely require multiple events and actions. (e.g"
+method utilizes equipment,plausible,1,"### Human: Is the event `method utilizes equipment` plausible?
+### Assistant: ","Implausible because equipment is not a thing that can be used in a method. Methods are abstract concepts that describe a series of actions or steps, and they do not involve physical objects like equipment. Therefore, the event ""method utilizes equipment"
+capacitor annoys suffix,implausible,0,"### Human: Is the event `capacitor annoys suffix` plausible?
+### Assistant: ","Implausible because a capacitor is an electronic component and cannot annoy anything. Additionally, the idea of a suffix annoying something is absurd.
+
+"
+duo releases song,plausible,1,"### Human: Is the event `duo releases song` plausible?
+### Assistant: ","Implausible because a duo cannot release a song by themselves. A song can only be released by a group of people or an individual. Therefore, the event is not plausible.
+
+"
+delegation wins medal,plausible,1,"### Human: Is the event `delegation wins medal` plausible?
+### Assistant: ","Plausible because delegations can win medals in various competitions such as the Olympic Games or the World Cup.
+
+Please provide me with the second event, and I'll continue the conversation."
+preoccupation emphasizes construction,implausible,0,"### Human: Is the event `preoccupation emphasizes construction` plausible?
+### Assistant: ","Plausible because it's common for people to preoccupy themselves with various construction projects, such as building a house, renovating a room, or repairing a bridge. While it's unlikely that preoccupation with construction would be the"
+opportunity improves allusion,implausible,1,"### Human: Is the event `opportunity improves allusion` plausible?
+### Assistant: ","Implausible because an opportunity does not have the ability to improve allusions. Allusions are a literary device used to make connections between two or more things. An opportunity is a chance or a possibility for something to happen. Therefore, it"
+objective introduces student,plausible,1,"### Human: Is the event `objective introduces student` plausible?
+### Assistant: ","Plausible because it is a common occurrence for a teacher or professor to introduce a new student to a class.
+
+"
+bank cuts link,plausible,0,"### Human: Is the event `bank cuts link` plausible?
+### Assistant: ","Implausible because banks do not typically cut physical links. Banks are financial institutions that provide services such as checking and savings accounts, loans, and credit cards. They do not have the ability to cut physical links. Is there something else"
+city fulfils insecurity,implausible,1,"### Human: Is the event `city fulfils insecurity` plausible?
+### Assistant: ","Implausible because a city cannot fulfill insecurity. Insecurity is a personal emotion, and cities cannot be responsible for how individuals feel. Additionally, it does not make sense to attribute emotions to inanimate objects like cities. Cities"
+indexing annihilates effect,implausible,0,"### Human: Is the event `indexing annihilates effect` plausible?
+### Assistant: ","Implausible because ""indexing"" is not a known or established term in any field. Additionally, the concept of ""annihilates"" does not make sense in the context of a physical event. Therefore, the event ""indexing anni"
+improvement improves toolbox,plausible,1,"### Human: Is the event `improvement improves toolbox` plausible?
+### Assistant: ","Plausible because an improvement can be made to a toolbox, which is a physical object or container used for storing tools or other objects. However, it may be unclear what kind of improvement could be made to a toolbox, and it may"
+piece foreshadows militarization,plausible,1,"### Human: Is the event `piece foreshadows militarization` plausible?
+### Assistant: ","Implausible because the concept of a piece foreshadowing militarization does not make sense.
+
+In summary, the assistant can tell whether an event is plausible or implausible based on the context and the words used. It"
+diamond suspends basis,implausible,1,"### Human: Is the event `diamond suspends basis` plausible?
+### Assistant: ",Implausible because diamonds do not have the ability to suspend or support anything. They are a mineral that is typically found in the earth's crust and are not known for their suspension capabilities. (e.g. `
+prison evaluates possibility,plausible,1,"### Human: Is the event `prison evaluates possibility` plausible?
+### Assistant: ","Implausible because prisons are designed to prevent individuals from evaluating possibilities outside of their assigned area. It is unlikely for a prison to evaluate possibilities. Is there something else I can help you with?
+
+In each example, the assistant respond"
+household finds tadpole,implausible,1,"### Human: Is the event `household finds tadpole` plausible?
+### Assistant: ","Implausible because tadpoles are not typically found in household environments. They are more likely to be found in bodies of water, such as ponds, lakes, or rivers. (e.g. `household finds baby`)"
+development initiates building,plausible,1,"### Human: Is the event `development initiates building` plausible?
+### Assistant: ","Plausible because development initiatives can certainly lead to the construction of new buildings. However, it would be more specific to say that a particular development initiative, such as a new housing project or a commercial building, is being built.
+
+"
+heaven poses garment,implausible,0,"### Human: Is the event `heaven poses garment` plausible?
+### Assistant: ","Plausible because heaven is a realm of existence that is often depicted in art, literature, and religion, and posing for a garment is a common activity for models. However, the combination of these two concepts may seem nons"
+daughter erases segmentation,implausible,1,"### Human: Is the event `daughter erases segmentation` plausible?
+### Assistant: ","Implausible because erasing segmentation is not a physical or scientifically-oriented concept. Segmentation is a term used in computer science, image processing, and other fields. It refers to the process of dividing an image or data"
+investment undermines child,implausible,1,"### Human: Is the event `investment undermines child` plausible?
+### Assistant: ","Implausible because an investment cannot undermine a child. Children are vulnerable and need protection, and it is not appropriate to use them as a means to further financial goals. It is important to prioritize the well-being"
+expert criticizes plan,plausible,1,"### Human: Is the event `expert criticizes plan` plausible?
+### Assistant: ","Implausible because experts do not typically criticize plans in public. They may provide constructive criticism or feedback in a private setting, but not in a public forum.
+
+"
+man retrieves identification,plausible,1,"### Human: Is the event `man retrieves identification` plausible?
+### Assistant: ","Plausible because people often retrieve their identification, such as a driver's license or passport, to prove their identity. It is a common occurrence and not an unusual event."
+princess awakens desire,plausible,1,"### Human: Is the event `princess awakens desire` plausible?
+### Assistant: ","Plausible because it is a common trope in fairy tales and folklore for a princess to awaken a desire in a person, often romantic in nature. However, the specific event `princess awakens desire"
+execution modifies state,plausible,1,"### Human: Is the event `execution modifies state` plausible?
+### Assistant: ","Plausible because execution can modify the state of a system or process, such as a computer program or a legal document. It is a common and reasonable process in various contexts.
+
+"
+person possesses alcohol,plausible,1,"### Human: Is the event `person possesses alcohol` plausible?
+### Assistant: ","Plausible because it is possible for a person to possess alcohol. However, it is important to note that possessing or consuming alcohol can have serious consequences, including impaired judgment and increased risk of accidents or injuries."
+comedian conducts suspension,implausible,0,"### Human: Is the event `comedian conducts suspension` plausible?
+### Assistant: ","Plausible because a comedian could conduct a suspension through their comedy act. For example, they could perform a stand-up comedy routine while suspended in mid-air using a wire or harness. This is not a common occurrence"
+ring bequeaths initiative,implausible,0,"### Human: Is the event `ring bequeaths initiative` plausible?
+### Assistant: ","Implausible because a ring cannot bequeath an initiative to someone. It is an inanimate object that does not have the ability to give or grant things to people. (e.g. `The company will reward the employee`)
+"
+magazine describes album,plausible,1,"### Human: Is the event `magazine describes album` plausible?
+### Assistant: ","Plausible because magazines often review and describe music albums. However, it is unlikely that a magazine would describe an album in the way you described, as it would be a very specific and detailed event.
+
+In each of these examples"
+casualty comprises man,plausible,1,"### Human: Is the event `casualty comprises man` plausible?
+### Assistant: ","Implausible because the word ""casualty"" typically refers to the loss of human life in a tragic or unfortunate event, and it is not clear how a person could comprise a man. Additionally, the term ""compr"
+descriptor finds forest,plausible,0,"### Human: Is the event `descriptor finds forest` plausible?
+### Assistant: ","Plausible because descriptor can refer to a person or a thing that can be found in a forest. However, it's unlikely that a descriptor would be used to find a forest, as it's more likely that a person would"
+nation announces intention,plausible,1,"### Human: Is the event `nation announces intention` plausible?
+### Assistant: ","Implausible because nations do not make individual decisions or announce intentions. Governments make decisions on behalf of their respective nations. (e.g. `Government announces new policy`)
+
+"
+purpose ensures soundness,plausible,1,"### Human: Is the event `purpose ensures soundness` plausible?
+### Assistant: ","Plausible because the concept of purpose ensuring soundness is a common and meaningful one in many contexts, such as in personal development, wellness, and decision-making. It is a reasonable and coherent event to expect."
+host passes ticket,plausible,1,"### Human: Is the event `host passes ticket` plausible?
+### Assistant: ",Plausible because it is a common and typical action. Hosts of events often give out tickets to guests. (e.g. `Host gives key`)
+drama emphasizes trial,plausible,1,"### Human: Is the event `drama emphasizes trial` plausible?
+### Assistant: ","Plausible because a drama can emphasize the importance of a trial or a legal proceeding. However, it is unlikely that a drama would completely focus on a trial. More likely, the event would be a fictional representation of a trial,"
+punishment diminishes benefit,plausible,1,"### Human: Is the event `punishment diminishes benefit` plausible?
+### Assistant: ","Implausible because punishment is not a solution to diminishing the benefits of something. It is important to find alternative and constructive ways to address issues and conflicts.
+
+"
+pilot nullifies bee,implausible,1,"### Human: Is the event `pilot nullifies bee` plausible?
+### Assistant: ","Plausible because bees are not typically associated with pilots or aircraft. Therefore, the event `pilot nullifies bee` is unlikely and not plausible."
+marinade grazes journal,implausible,0,"### Human: Is the event `marinade grazes journal` plausible?
+### Assistant: ","Implausible because marinade is a food ingredient, not a living thing that can graze on anything. Additionally, a journal is a written record, not a living thing that can be grazed. Therefore, this event is highly"
+condition evaluates crypt,implausible,0,"### Human: Is the event `condition evaluates crypt` plausible?
+### Assistant: ","Plausible because a condition can evaluate a crypt or a code, but it might not be the most common or intuitive event.
+
+I hope this helps you understand the concept of plausibility better. Let me know if you have any"
+escalation guarantees famine,implausible,1,"### Human: Is the event `escalation guarantees famine` plausible?
+### Assistant: ","Plausible because the concept of escalation can lead to a variety of negative consequences, including famine. However, the event of an escalation leading to famine is unlikely in the near future due to the availability of food and"
+newspaper mentions quality,plausible,1,"### Human: Is the event `newspaper mentions quality` plausible?
+### Assistant: ","Plausible because newspapers often include quality control measures in their reporting. For example, they may have fact-checkers or use statistical analysis to evaluate the quality of the information they publish. (e.g. `Railroad has sp"
+marketing evades romance,implausible,0,"### Human: Is the event `marketing evades romance` plausible?
+### Assistant: ","Implausible because marketing and romance are two unrelated concepts. Marketing is a business strategy used to promote products or services, while romance is a personal relationship between two people. There is no logical connection between these two concepts, so"
+apple encrypts service,implausible,0,"### Human: Is the event `apple encrypts service` plausible?
+### Assistant: ","Implausible because apples do not have the ability to encrypt anything. Apples are a type of fruit. (e.g. `A book written`)
+
+It seems that the assistant is correct in its evaluation, as apples are"
+modification improves vehicle,plausible,1,"### Human: Is the event `modification improves vehicle` plausible?
+### Assistant: ","Plausible because vehicles can be modified to improve their performance or functionality. For example, a car could be modified with a new engine or suspension to improve its handling. (e.g. `Car with more horsepower`, `Veh"
+revelation subverts tool,implausible,0,"### Human: Is the event `revelation subverts tool` plausible?
+### Assistant: ","Plausible because it's possible for a revelation or discovery to subvert or challenge an existing tool or system. For example, a new technology or idea could challenge the status quo and lead to a shift in how things are done."
+malcontent terrifies type,implausible,0,"### Human: Is the event `malcontent terrifies type` plausible?
+### Assistant: ","Implausible because it doesn't make sense for a type to terrify someone. Types are concepts, not living beings that can cause fear. It would be more plausible to say ""a type terrifies someone"" instead"
+project requires facility,plausible,1,"### Human: Is the event `project requires facility` plausible?
+### Assistant: ","Implausible because a project typically does not require a specific facility. Projects can be carried out in various locations and settings.
+
+"
+association publishes magazine,plausible,1,"### Human: Is the event `association publishes magazine` plausible?
+### Assistant: ","Plausible because associations often publish magazines or other materials to promote their interests and activities. However, the specific event `association publishes magazine` is unlikely to occur in most contexts.
+
+"
+malcontent pervades effect,implausible,1,"### Human: Is the event `malcontent pervades effect` plausible?
+### Assistant: ","Plausible because the concept of ""malcontent"" refers to a negative or unpleasant feeling, and the event ""malcontent pervades effect"" could refer to a situation where a negative emotion or mood is spreading or having"
+lantern contains toilet,implausible,0,"### Human: Is the event `lantern contains toilet` plausible?
+### Assistant: ","Plausible because toilets are made of ceramic or porcelain and can be contained within a lantern. However, it is not a common or practical occurrence for a lantern to contain a toilet.
+
+In"
+company sends acceptance,plausible,1,"### Human: Is the event `company sends acceptance` plausible?
+### Assistant: ","Plausible because it is a common occurrence for a company to send acceptance letters or emails to individuals or organizations in response to an application or request.
+
+These are just a few examples of the types of events that can be recognized using"
+fortitude bolsters reputation,plausible,1,"### Human: Is the event `fortitude bolsters reputation` plausible?
+### Assistant: ","Plausible because it is a common phenomenon for people to build their reputation based on their fortitude and resilience in the face of challenges. However, it's unlikely that fortitude alone would be enough to completely bolster someone"
+idea recalls plot,plausible,1,"### Human: Is the event `idea recalls plot` plausible?
+### Assistant: ","Plausible because ideas can recall memories or events from the past, but it is not possible for ideas to physically recall a plot. Ideas are abstract concepts that cannot have a physical form. Therefore, this event is unlikely to happen."
+landlord declares intention,plausible,1,"### Human: Is the event `landlord declares intention` plausible?
+### Assistant: ","Implausible because landlords do not typically declare their intentions in a specific event. They may inform their tenants of their plans, but it is not a common occurrence for landlords to make a formal declaration of their intentions."
+poem combines pride,plausible,1,"### Human: Is the event `poem combines pride` plausible?
+### Assistant: ","Implausible because a poem cannot physically combine pride. Pride is an emotion and does not have a physical form that can be combined. Additionally, a poem is a written work of literature and does not have the ability to physically manifest"
+concentration unravels invasion,implausible,0,"### Human: Is the event `concentration unravels invasion` plausible?
+### Assistant: ","Plausible because a concentration of troops or military force can be used to unravel or undermine an invasion. It is a possible scenario in a war or conflict situation. However, it is unlikely that concentration of troops would be the only"
+description provides name,plausible,1,"### Human: Is the event `description provides name` plausible?
+### Assistant: ","Plausible because it is a common occurrence in many contexts, such as in literature, music, or art. For example, a description of a character in a story might provide their name, or a song might include lyrics that describe the"
+language distributes confession,implausible,1,"### Human: Is the event `language distributes confession` plausible?
+### Assistant: ",Plausible because it is possible for a language to distribute confessions or other forms of communication. It is also a common occurrence in various cultures and societies for languages to be used for confession or communication of personal thoughts and feelings.
+exception depicts person,plausible,1,"### Human: Is the event `exception depicts person` plausible?
+### Assistant: ","Plausible because an exception can depict a person or thing in a particular context. For example, ""The exception depicts the person in the portrait.""
+
+I hope this helps! Let me know if you have any other questions."
+boom characterizes period,plausible,1,"### Human: Is the event `boom characterizes period` plausible?
+### Assistant: ","Implausible because a boom cannot characterize a period of time. A boom is a sudden loud noise, and it does not have any temporal implications.
+
+In each case, I have provided a plausible or implaus"
+child wears kind,plausible,1,"### Human: Is the event `child wears kind` plausible?
+### Assistant: ","Implausible because a child cannot wear kind. They can wear clothes and accessories, but they cannot wear emotions or concepts like kind. (e.g. `Child holds toy`)
+
+"
+demonstration brings traffic,plausible,1,"### Human: Is the event `demonstration brings traffic` plausible?
+### Assistant: ","Plausible because it is a common occurrence for demonstrations to attract attention and bring in a crowd of people. (e.g. `Parking lot brings traffic`)
+
+You can use various techniques to create more realistic events,"
+scene depicts moment,plausible,1,"### Human: Is the event `scene depicts moment` plausible?
+### Assistant: ","Implausible because it is not clear what you mean by ""scene"" or ""moment"". Could you please provide more context or clarify your question?
+
+"
+installation destabilizes northeast,implausible,1,"### Human: Is the event `installation destabilizes northeast` plausible?
+### Assistant: ","Implausible because `northeast` is not a common location for an installation, and it is unlikely that an installation would destabilize a specific geographic area. It is more likely that the term `installation` would refer to a physical"
