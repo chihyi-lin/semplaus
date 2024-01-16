@@ -1,2 +1,4 @@
-# semplaus
-Modelling semantic plausibility
+# Modelling Semantic Plausibility
+
+* Author: Quy Nguyen, Chi-Yih Lin and Wen Wen
+* 
